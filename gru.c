@@ -28,15 +28,7 @@ int main() {
      }while (strcmp(choice, "yes") ==0);
      printf("thank u for using this program");
      
-      
     
-     
-
-
-
-      
-    
-
 
 
 
